@@ -1,6 +1,6 @@
 # flutter_web_sample2
 
-A new Flutter project.
+Flutter web sample by GITHUB_TOKEN.
 
 ## Reference
 
